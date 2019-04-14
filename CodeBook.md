@@ -1,5 +1,5 @@
-                                                            Code Book
-                        
+## Code Book
+
 This file contains information on the data, variables and transformations performed in the completion of Week 4 Getting and Cleaning Data Course Project.
 
 ### Data
