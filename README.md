@@ -1,6 +1,7 @@
-####Coursera Project Assignment
-#####Week 4 - Getting and Cleaning Data
-######Version 1.0
+#Coursera Project Assignment
+
+#Week 4 - Getting and Cleaning Data
+#Version 1.0
 
 The project's main goal is to prepare tidy data usable for later analysis. More specifically, the project aims to show one's ability in terms of collecting, working with and cleaning data.
 
