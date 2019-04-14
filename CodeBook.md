@@ -1,12 +1,12 @@
-                                                            #### Code Book
+                                                            Code Book
                         
 This file contains information on the data, variables and transformations performed in the completion of Week 4 Getting and Cleaning Data Course Project.
 
-##### Data
+### Data
 
 The data is composed of **180 rows** and **82** columns. The first three columns contain identification information for the subject and activity. The rest of the columns contain the mean for each feature per subject and type of activity.
 
-##### Variables
+### Variables
 
 The following variables are dedicated for the identification of the subject and activity:
 
@@ -104,7 +104,7 @@ The following variables are dedicated for the identification of the subject and 
     * fBodyBodyGyroJerkMag-std()
     * fBodyBodyGyroJerkMag-meanFreq()
 
-##### Transformations
+### Transformations
 
 The following are the main transformations performed toward the data:
 
